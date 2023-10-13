@@ -1,0 +1,3 @@
+interface IGetCryptoRequest {}
+
+interface IGetCryptoResponse {}
